@@ -41,6 +41,8 @@ public class MainActivity extends AppCompatActivity {
             }
 
 
+// teste de commit
+
             @NonNull
             @Override
             public MovieHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
